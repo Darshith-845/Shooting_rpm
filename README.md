@@ -1,4 +1,4 @@
-Robocon 2025 Ball Launch Prediction & Robot Control 🚀
+Robocon 2025 Ball Launch Prediction
 
 This repository contains the intelligence behind our Robocon 2025 robot's ball launching system! It explores both machine learning models and a physics-based solution to accurately predict the required RPM for precise ball launches.
 ✨ Project Overview
