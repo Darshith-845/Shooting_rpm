@@ -35,6 +35,10 @@ We've explored several iterations of models to predict rpm based on distance and
 
     model_V5.py: An alternative approach using a RandomForestRegressor to predict RPM.
 
+    model_V6.py: This is an alternate apporach that uses XGBoost to predict the rpm.
+
+    model_V7.py: This is an advanced method of predicting rpm which uses the ensemble model.
+    
 Note: All these models are pre-trained on the synthetic datasets. Due to practical constraints, real-life datasets for fine-tuning were not available.
 📐 Physics-Based Launch Solution
 
