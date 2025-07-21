@@ -11,8 +11,6 @@ Our goal for Robocon 2025 is precision in ball launching. This project focuses o
 
     Physics-Based Approach: An analytical solution to calculate launch parameters.
 
-    Foundation for Robot Control: The core logic that would integrate with a full robot control system.
-
 📦 Key Components
 📊 Synthetic Datasets
 
